@@ -1,6 +1,6 @@
 # Statify
 
-Statify is a web application designed for viewing and analyzing statistics. Link for deployment: https://statify-iota.vercel.app. Old domain is expired, use https://statify-uk.vercel.app/ (but this is vercel free hosting so some actions might take time at first)
+Statify is a web application designed for viewing and analyzing statistics. Link for deployment: https://statify-iota.vercel.app. Old domain is expired, use https://statify-iota.vercel.app/ (but this is vercel free hosting so some actions might take time at first)
 
 ## About the project
 
